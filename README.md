@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Solidity-Expert-black?logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Solidity-Security-Builder-black?logo=solidity&logoColor=white" alt="Solidity"/>
   <img src="https://img.shields.io/badge/Foundry-Tested-blue?logo=forge&logoColor=white" alt="Foundry"/>
   <img src="https://img.shields.io/badge/Security-Builder-red?logo=shield&logoColor=white" alt="Security"/>
   <img src="https://img.shields.io/badge/Open--Source-Contributor-brightgreen?logo=github&logoColor=white" alt="Open Source"/>
@@ -25,13 +25,13 @@ I’m Michealking (*BuildsWithKing*), a Solidity smart contract developer on a m
 ## 📂 Featured Projects
 
 ### 🔐 Security Modules
-- [*BuildsWithKing-Security*](https://github.com/BuildsWithKing/buildswithking-security)  
+- **[BuildsWithKing-Security](https://github.com/BuildsWithKing/buildswithking-security)**  
   Lightweight Solidity security utilities. Custom **Kingable** and **ReentrancyGuard** built from scratch.  
 
-- *Kingable* → [View Code](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/access/Kingable.sol)  
+- **Kingable** → [View Code](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/access/Kingable.sol)  
   Ownership & access control, optimized for clarity + gas savings.  
 
-- *ReentrancyGuard* → [View Code](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/security/ReentrancyGuard.sol)  
+- **ReentrancyGuard** → [View Code](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/security/ReentrancyGuard.sol)  
   Custom reentrancy protection module with modern Solidity features.  
 
 ---
