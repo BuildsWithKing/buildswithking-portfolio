@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Solidity-Security-Builder-black?logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Solidity-Developer-black?logo=solidity&logoColor=white" alt="Solidity"/>
   <img src="https://img.shields.io/badge/Foundry-Tested-blue?logo=forge&logoColor=white" alt="Foundry"/>
   <img src="https://img.shields.io/badge/Security-Builder-red?logo=shield&logoColor=white" alt="Security"/>
   <img src="https://img.shields.io/badge/Open--Source-Contributor-brightgreen?logo=github&logoColor=white" alt="Open Source"/>
