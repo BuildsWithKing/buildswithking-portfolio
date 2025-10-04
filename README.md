@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 I’m Michealking (*BuildsWithKing*), a Solidity smart contract developer on a mission:  
 - Shipped *20+ projects* in under 6 months.  
-- Building *open-source security modules* from scratch (e.g., [Kingable](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/access/Kingable.sol), [ReentrancyGuard](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/security/ReentrancyGuard.sol)).  
+- Building *open-source security modules* from scratch (e.g., [Kingable](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/access/core/Kingable.sol), [ReentrancyGuard](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/security/ReentrancyGuard.sol)).  
 - Practicing *Foundry testing* (unit, fuzz, invariant).  
 - Exploring *gas optimizations* & real-world security patterns.  
 
@@ -28,7 +28,7 @@ I’m Michealking (*BuildsWithKing*), a Solidity smart contract developer on a m
 - **[BuildsWithKing-Security](https://github.com/BuildsWithKing/buildswithking-security)**  
   Lightweight Solidity security utilities. Custom **Kingable** and **ReentrancyGuard** built from scratch.  
 
-- **Kingable** → [View Code](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/access/Kingable.sol)  
+- **Kingable** → [View Code](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/access/core/Kingable.sol)  
   Ownership & access control, optimized for clarity + gas savings.  
 
 - **ReentrancyGuard** → [View Code](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/security/ReentrancyGuard.sol)  
