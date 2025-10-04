@@ -7,7 +7,7 @@
 <h1 align="center"> 👑 BuildsWithKing · Michealking </h1>
 
 <p align="center">
-  <em>Solidity Smart Contract Developer | Foundry | Web3 Security Builder</em><br/>
+  <em>Solidity Smart Contract Developer | Web3 Security Builder | Foundry</em><br/>
   <em>"Consistency builds mastery. God first. Code second."</em>
 </p>
 
@@ -51,7 +51,8 @@ I’m Michealking (*BuildsWithKing*), a Solidity smart contract developer on a m
 ---
 
 ## 📚 Personal Mantras
-> - “Don’t skip the hard parts. Build through them.”  
+> - “Don’t skip the hard parts. Build through them.”
+> - "Consistency builds mastery. I'm here to prove it."
 > - “One project a day keeps regret away.”  
 > - “God first. Code second.”  
 
