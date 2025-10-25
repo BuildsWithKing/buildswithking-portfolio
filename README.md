@@ -15,8 +15,10 @@
 
 ## 👨‍💻 About Me
 I’m Michealking (*BuildsWithKing*), a Solidity smart contract developer on a mission:  
-- Shipped *20+ projects* in under 6 months.  
-- Building *open-source security modules* from scratch (e.g., [Kingable](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/access/core/Kingable.sol), [ReentrancyGuard](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/security/ReentrancyGuard.sol)).  
+- Shipped *25+ projects* in under 7 months.  
+- Building *open-source security modules* from scratch (e.g., [Kingable](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/access/core/Kingable.sol),
+  [KingReentrancyGuard](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/security/ReentrancyGuard.sol),
+  [KingReentrancyAttacker](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/access/utils/KingReentrancyAttacker.sol)).  
 - Practicing *Foundry testing* (unit, fuzz, invariant).  
 - Exploring *gas optimizations* & real-world security patterns.  
 
@@ -31,9 +33,14 @@ I’m Michealking (*BuildsWithKing*), a Solidity smart contract developer on a m
 - **Kingable** → [View Code](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/access/core/Kingable.sol)  
   Ownership & access control, optimized for clarity + gas savings.  
 
-- **ReentrancyGuard** → [View Code](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/security/ReentrancyGuard.sol)  
-  Custom reentrancy protection module with modern Solidity features.  
+- **KingReentrancyGuard** → [View Code](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/access/security/KingReentrancyGuard.sol)  
+  Custom reentrancy protection module with modern Solidity features.
 
+- **KingReentrancyAttacker** → [View Code](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/access/utils/KingReentrancyAttacker.sol)  
+  Reusable attacker contract for testing reentrancy vulnerabilities.
+
+- **KingClaimMistakenETH**  → [View Code](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/access/guards/KingClaimMistakenETH.sol)  
+  Allows users to claim ETH mistakenly transferred to the child contract.
 ---
 
 ### 📦 Solidity Projects (20+ Shipped)
