@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 I’m Michealking (*BuildsWithKing*), a Solidity smart contract developer on a mission:  
-- Shipped *25+ projects* in under 7 months.  
+- Shipped *45+ projects* in under 7 months.  
 - Building *open-source security modules* from scratch (e.g., [Kingable](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/access/core/Kingable.sol),
   [KingReentrancyGuard](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/security/ReentrancyGuard.sol),
   [KingReentrancyAttacker](https://github.com/BuildsWithKing/buildswithking-security/blob/main/contracts/access/utils/KingReentrancyAttacker.sol)).  
